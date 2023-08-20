@@ -1,0 +1,122 @@
+.top {
+    height: 170px;
+    width: 1500px;
+    background-color: red;
+}
+
+
+
+
+
+
+.heading {
+    color: white;
+    padding-top: 25px;
+    /*padding-left: 140px;*/
+    text-align: center;
+    padding-bottom: 0px;
+    margin-top: 0px;
+}
+
+
+.form {
+    padding-left: 30px;
+
+    padding-bottom: 50px;
+
+
+}
+
+.titleField {
+    width: 75%;
+    height: 35px;
+}
+
+.add {
+    width: 20%;
+    height: 40px;
+
+}
+
+.align {
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.bottom {
+    padding: 0;
+    /*margin-bottom: 350px;*/
+    height: 170px;
+    width: 1500px;
+    /* margin-right: 1150px;*/
+    padding-right: 1140px;
+    display: inline-block;
+
+
+
+}
+
+
+.same:hover {
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
+
+.event1 {
+    padding: 0;
+    list-style: none;
+    background-color: aliceblue;
+    display: inline block;
+    padding: 10px 5px;
+}
+
+.event2 {
+    padding: 0;
+    list-style: none;
+    background-color: gray;
+    display: inline block;
+    padding: 10px 5px;
+}
+
+.event3 {
+    padding: 0;
+    list-style: none;
+    background-color: aliceblue;
+    display: inline block;
+    padding: 10px 5px;
+}
+
+.event4 {
+    padding: 0;
+    list-style: none;
+    background-color: gray;
+    display: inline block;
+    padding: 10px 5px;
+}
+
+.bottom ul {
+    margin: 0;
+    /* Remove default margin from the ul element */
+    padding: 0;
+    /* Remove default padding from the ul element */
+}
+
+.icon {
+    float: right;
+    /* Float the icons to the right end */
+    margin-right: 20px;
+    /* margin-top: 9px;
+                    /* Add some space between the text and the icon */
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    color: blue;
+    padding: 12px;
+}
+
+.icon:hover {
+    background-color: pink !important;
+}
